@@ -1,0 +1,74 @@
+{
+  "ConnectionType": "off",
+  "VpnUserName"   :"ETfU6QCWoKCssbd1TtCemrzG",
+  "VpnPassword"   :"VU9N5Z6KKW3WLjJAyo8CbgVx",
+  "BlockedCountry":"ca,uk",
+  "VpnFiles": [
+    {
+      "vpnName": "canada",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/Canada-udp.ovpn"
+    },
+    
+    {
+      "vpnName": "belgium",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/Belgium-udp.ovpn"
+    },
+    
+     {
+      "vpnName": "denmark",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/Denmark-udp.ovpn"
+    },
+     {
+      "vpnName": "france",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/France-udp.ovpn"
+    },
+     {
+      "vpnName": "germany",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/Germany-udp.ovpn"
+    },
+     {
+      "vpnName": "luxembourg",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/Luxembourg-udp.ovpn"
+    },
+     {
+      "vpnName": "netherlands",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/Netherlands-udp.ovpn"
+    },
+     {
+      "vpnName": "new-zealand",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/New-Zealand-udp.ovpn"
+    },
+     {
+      "vpnName": "norway",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/Norway-udp.ovpn"
+    },
+     {
+      "vpnName": "portugal",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/Portugal-udp.ovpn"
+    },
+     {
+      "vpnName": "spain",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/Spain-udp.ovpn"
+    },
+     {
+      "vpnName": "ukraine",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/Ukraine-udp.ovpn"
+    },
+     {
+      "vpnName": "united-kingdom",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/United-Kingdom-udp.ovpn"
+    },
+     {
+      "vpnName": "united-states",
+      "vpnFile": "https://zonekapp.com/AndroidStudio/NordVPN/United-States-udp.ovpn"
+    },
+    
+    
+     {
+      "vpnName": "au569",
+      "vpnFile": "https://downloads.nordcdn.com/configs/files/ovpn_legacy/servers/au600.nordvpn.com.tcp443.ovpn"
+    }
+   
+   
+  ]
+}
